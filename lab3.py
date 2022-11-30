@@ -24,7 +24,5 @@ with open('C:\compGraphics\compGraphLab3\DS4.txt', 'r') as file:  # в перш�
 image.save("C:\compGraphics\compGraphLab3\\result.png")
         
         
+del draw
 
-#del draw
-#image.save("C:\compGraphics\compGraphLab3\img.png", "PNG")  # в першому аргументі потрібно змінити/поставити шлях, по якому ви хочете зберегти зображення і відповідно назву файлу
-        
